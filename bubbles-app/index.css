@@ -1,0 +1,73 @@
+.dot-yellow {
+    height: 1.75rem;
+    width: 1.75rem;
+    background-color: #FFFF00;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 0.125rem;
+}
+
+.dot-blue {
+    height: 1.75rem;
+    width: 1.75rem;
+    background-color: #0000ff;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 0.125rem;
+}
+
+.dot-red {
+    height: 1.75rem;
+    width: 1.75rem;
+    background-color: #Ff0000;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 0.125rem;
+}
+
+.dot-green {
+    height: 1.75rem;
+    width: 1.75rem;
+    background-color: #00FF00;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 0.125rem;
+}
+
+.title {
+    text-align: center;
+}
+
+.circle-img-container-1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.circle-img-container-2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.circle-img-container-3 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.circle-img-container-4 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.arrow-image {
+    height: 2em;
+    width: 2em;
+}
+
+.parent-container {
+    border: 1px solid black;
+}
+
+.reset-button {
+    margin-top: 5px;
+    float: right;
+}
